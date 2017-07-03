@@ -1,0 +1,56 @@
+*{margin:0;padding:0;}
+ul{list-style: none}
+li{float:left}
+body{font-family:"微软雅黑","arial";font-size:12px;}
+a{text-decoration: none}
+form,input{border: none}
+a:hover{color:red;}
+a{color:#666;}
+/*header*/
+.header{background: #f1f1f1}
+.inner{width:1210px;height:32px;margin:0 auto;}
+.header-left{float:left;line-height:30px;height:30px;margin-left:10px;position:relative}
+.header-right{float:right;height:30px;color:#666666;}
+.header-right li{float:left;padding:0 12px;background:url("../images/header-bg_03.jpg") no-repeat right center;}
+.header-right a{display:inline-block;height:30px;line-height:30px;display: inline-block;padding:0 10px}
+.header-right li .login{color:red;margin-left:7px;}
+.header .webnav{background-image: none;padding:0 8px}
+.iphone a{display:inline-block;padding-left:16px;background: url("../images/jd2015img.png") no-repeat -2px 5px }
+.ci-right div{position:absolute;right:5px;top:15px;border-left:1px solid black;border-bottom:1px solid black;display:inline-block;margin-left:6px;width:2px;height:2px;transform:rotate(-45deg);transition:transform,0.5s}
+.header-left div{margin-left:7px}
+.ci-right:hover div{transform:rotate(-225deg);}
+.ci-right:hover ul {display:block;}
+.ci-right:hover ul li{background-image:none}
+.ci-right:hover ul li a{background-image:none}
+.ci-right{border:1px solid #f1f1f1;}
+.header-right .ci-right .laji{border:1px solid #f1f1f1}
+.header-right .ci-right:hover .laji{position:relative;z-index:2500;border:1px solid black;border-bottom: 1px solid white;background-color:white}
+.header-right .ci-right ul{left:12px;top:30px}
+.ci-right span{padding:0 10px;position:relative;margin-right:12px;border:1px solid #f1f1f1;display:inline-block;}
+.ci-right:hover span{background:white;border:1px solid black;border-bottom: 1px solid white;z-index: 1500}
+.ci-right ul{display:none;list-style: none;z-index: 1000;position:absolute;top:30px;left:36px;width:200px;height:150px;background:white;padding-top:10px;box-shadow:1px 1px 1px #888888;border:1px solid black}
+.ci-right ul li{float:left;padding:10px;}
+.ci-right{position:relative;: 2000}
+
+/*nav*/
+.nav{border-bottom: 2px solid #b1191a}
+.nav .inner{height:144px;}
+.nav-top{height:100px;}
+.nav-bot{height:44px;}
+
+.nav-top .logo{height:73px;float:left;padding-top:27px;}
+.nav-top .search{margin-left:95px;padding-top:25px;float:left;}
+.nav-top .search .text{height:32px;border:2px solid #b61d1d;float:left;width:454px;}
+.nav-top .search .bt1{width:80px;height:36px;float:left;border:2px solid #b61d1d;background: #b61d1d;color:#ffffff}
+.nav-top .search a{line-height:27px;height:27px;margin-right:11px;}
+.nav-top .shopping{float:left;background-color:#f9f9f9;margin-top:25px;border: 1px solid #dfdfdf;margin-left:104px;height:34px;width:139px;text-align:center;line-height:34px;background: url("../images/jd2015img.png")no-repeat 15px -49px;position:relative;}
+.nav-top .hideche{width: 348px;height: 69px;background: white;border: 1px solid #ccc;position: absolute;top: 34px;  left: -210px;z-index: 22;display:none }
+.nav-top .kongche{width: 56px;height: 49px;margin-left: 40px;margin-top: 7px;float: left;background: url(../images/all.png) no-repeat 0px 0px;}
+.nav-top .hideche span{display: block;margin-top: 20px;color: #999;}
+.nav-top .shopping .shopping-list{position: absolute;left:120px;}
+.nav-top .shopping .shopping-num{width:16px;height:14px;border-radius:5px 5px 5px 0;background:#c81623;font-size:9px;line-height:14px;position: absolute;top:-6px;left:102px;color:#c5845a;}
+.nav-bot div{height:44px;line-height:44px;color:white;padding-left:10px;width:200px;background:#b1191a;float:left}
+.nav-bot ul{float:left;height:44px;}
+.nav-bot ul li{width:84px;color:#333333;float:left;text-align:center}
+.nav-bot ul a{line-height:44px;height:44px;display:block;transition: background 1s}
+.nav-bot ul a:hover{background:#c81623;color:#333333;}

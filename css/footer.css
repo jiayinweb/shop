@@ -1,0 +1,490 @@
+#xiang{
+
+
+    width: 1210px;
+
+
+    height: 176px;
+
+
+    margin: 0 auto;
+
+
+    border-top: 1px solid #ccc;
+
+
+    border-bottom: 1px solid #ccc;
+
+
+}
+
+
+#xiang .xleft{
+
+
+    width: 970px;
+
+
+    height: 176px;
+
+
+    float: left;
+
+
+    margin-left: 20px;
+
+
+}
+
+
+#xiang .xleft .qing{
+
+
+    margin-top: 10px;
+
+
+    width: 192px;
+
+
+    height: 151px;
+
+
+    float: left;
+
+
+}
+
+
+#xiang .xleft .qing .qtu{
+
+
+    width: 40px;
+
+
+    height: 40px;
+
+
+    background: url(../images/all.png)no-repeat 0px -55px;
+
+
+    float: left;
+
+
+}
+
+
+#xiang .xleft .qing .qtu1{
+
+
+    width: 40px;
+
+
+    height: 40px;
+
+
+    background: url(../images/all.png)no-repeat -50px -55px;
+
+
+    float: left;
+
+
+}
+
+
+#xiang .xleft .qing .qtu2{
+
+
+    width: 40px;
+
+
+    height: 40px;
+
+
+    background: url(../images/all.png)no-repeat 0px -100px;
+
+
+    float: left;
+
+
+}
+
+
+#xiang .xleft .qing .qtu3{
+
+
+    width: 40px;
+
+
+    height: 40px;
+
+
+    background: url(../images/all.png)no-repeat -50px -100px;
+
+
+    float: left;
+
+
+}
+
+
+#xiang .xleft .qing .qtu4{
+
+
+    width: 40px;
+
+
+    height: 40px;
+
+
+    background: url(../images/all.png)no-repeat 0px -149px;
+
+
+    float: left;
+
+
+}
+
+
+#xiang .xleft .qing h3{
+
+
+    width: 148px;
+
+
+    height: 31px;
+
+
+    float: right;
+
+
+    line-height: 31px;
+
+
+    font-weight: 700;
+
+
+    font-size: 14px;
+
+
+    color: #666;
+
+
+}
+
+
+#xiang .xleft .qing .bao{
+
+
+    width: 148px;
+
+
+    height: 20px;
+
+
+    float: right;
+
+
+}
+
+
+#xiang .xleft .qing a{
+
+
+    line-height: 20px;
+
+
+    color: #666;
+
+
+}
+
+
+#xiang .xleft .qing a:hover{
+
+
+    color: #E4393C;
+
+
+    text-decoration: underline;
+
+
+}
+
+
+#xiang .xright{
+
+
+    width: 200px;
+
+
+    height: 176px;
+
+
+    float: left;
+
+
+    background: url(../images/16.png)no-repeat 0px -130px;
+
+
+}
+
+
+#xiang .xright h3{
+
+
+    width: 200px;
+
+
+    height: 18px;
+
+
+    margin-top: 17px;
+
+
+    float: left;
+
+
+    line-height: 18px;
+
+
+    font-weight: 700;
+
+
+    font-size: 14px;
+
+
+    color: #666;
+
+
+    margin-bottom: 5px;
+
+
+}
+
+
+#xiang .xright span{
+
+
+    width: 200px;
+
+
+    height: 65px;
+
+
+    float: left;
+
+
+    display: block;
+
+
+    line-height: 1.8em;
+
+
+    color: #666;
+
+
+}
+
+
+#xiang .xright a{
+
+
+    width: 70px;
+
+
+    height: 14px;
+
+
+    margin-top: 20px;
+
+
+    float: right;
+
+
+    color: #005EA7;
+
+
+}
+
+
+#xiang .xright a:hover{
+
+
+    text-decoration: underline;
+
+
+}
+
+
+/*网站详情结束*/
+
+
+
+
+
+/*底部开始*/
+
+
+#down{
+
+
+    width: 1210px;
+
+
+    height: 150px;
+
+
+    margin: 0 auto;
+
+
+    margin-bottom: 30px;
+
+
+    margin-top: 20px;
+
+
+}
+
+
+#down .down_top{
+
+
+    width: 1210px;
+
+
+    height: 18px;
+
+
+    float: left;
+
+
+    text-align: center;
+
+
+}
+
+
+#down .down_top a{
+
+
+    padding-right: 10px;
+
+
+    padding-left: 10px;
+
+
+    line-height: 18px;
+
+
+    border-right: 1px solid #ccc;
+
+
+    color: #666;
+
+
+}
+
+
+#down .down_top a:hover{
+
+
+    color: #E4393C;
+
+
+    text-decoration: underline;
+
+
+}
+
+
+#down .down_center{
+
+
+    width: 1210px;
+
+
+    height: 72px;
+
+
+    float: left;
+
+
+    margin: 10px 0px;
+
+
+}
+
+
+#down .down_center span{
+
+
+    width: 1210px;
+
+
+    height: 14px;
+
+
+    float: left;
+
+
+    margin-top: 3px;
+
+
+    text-align: center;
+
+
+    color: #666;
+
+
+}
+
+
+#down .down_center a{
+
+
+    padding-right: 5px;
+
+
+    color: #666;
+
+
+}
+
+
+#down .down_center a:hover{
+
+
+    color: #E4393C;
+
+
+    text-decoration: underline;
+
+
+}
+
+
+#down .down_bot{
+
+
+    width: 1210px;
+
+
+    height: 40px;
+
+
+    float: left;
+
+
+    text-align: center;
+
+
+}
+
+
+#down .down_bot img{
+
+
+    margin-left: 10px;
+
+
+}

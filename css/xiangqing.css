@@ -1,0 +1,62 @@
+.header_bor{height:2px;background: #b2191b}
+.floor1{background: #f2f2f2;height:534px;border-bottom:1px solid#f1f1f1}
+.floor1_tab{height:45px;width:1212px;margin:0 auto;}
+.floor1_tab h3{height:45px;font-size:14px;float:left;line-height:45px;color:#666;margin-right:6px}
+.floor1_tab span{height:45px;font-size:12px;float:left;display:block;line-height:45px;color:#666;margin-right:6px}
+.floor1_main{width:1212px;height:489px;margin:0 auto}
+.floor1-right,.floor1-middle,.floor1-left{height:489px;float:left;background:white}
+.floor1-middle{width:588px}
+.floor1-middle-value{height:160px;}
+.floor1-middle-value1{padding-top:25px}
+.floor1-middle-value1 p{padding-top:2px;font-size:16px;color:#666;font-weight: bold}
+.floor1-middle-value1 span{color:red;margin-left:5px;margin-top:10px;display:block;margin-bottom: 10px}
+.floor1-middle-value2{background:#f2f2f2;height:45px;margin-top:5px;position: relative}
+.floor1-middle-value2 span{margin-left:10px;line-height:45px;color:#666;font-size:12px}
+.floor1-middle-value2 b{color:red;font-size:14px}
+.floor1-middle-value2 a{margin-left:10px;color:blue}
+.floor1-middle-value2 div{position:absolute;height:34px;width:60px;right:0;top:4px;border-left:2px solid #eee;padding-top:7px}
+.floor1-middle-value2 p{font-size:10px;color:#666;margin-left:8px}
+.floor1-left{background: white;width:379px;text-align: center;position: relative;padding-top:50px;height:439px}
+.floor1-left .floor1-left-big{height:300px;position:relative;width:309px;margin-left:35px;border: 1px solid #eee}
+.floor1-left-big img{height:100%;width:100%;margin:0 auto;display:block}
+.floor1-left-small{height:50px;margin:28px auto;display: inline-block;position: relative;left:4px}
+.floor1-left-small .ac{border: 2px solid red}
+.floor1-left-small li{width:50px;height:50px;margin-right:9px;border: 2px solid white}
+.floor1-left-small li img{width:100%;height:100%}
+.floor1-left .cont{height:30px;position: relative;bottom:3px;}
+.floor1-left .floor1-left-l{position: absolute;top:395px;left:10px}
+.floor1-left .floor1-left-r{position: absolute;top:395px;right:10px}
+.floor1-left .fangda{position: absolute;width:150px;height:150px;background-color:rgba(210,220,190,0.5);top:0;left:0;z-index: 2}
+.floor1-left .fangdatu{position: absolute;height:450px;width:450px;border: 1px solid #eee;z-index: 10;left:310px;top:0;overflow: hidden}
+.floor1-left .fangdatu img{height:900px;width:1137px;position: absolute}
+.floor1-middle-area1{position:relative;color:#666}
+.floor1-middle-area1 span{height:30px;line-height:30px;padding:10px;padding-right:5px}
+.floor1-middle-area1 div{display: inline-block;width:127px;height:23px;border:1px solid #cccccc;font-size: 12px;font-weight: bold;line-height:23px;position: relative;padding-left:5px}
+.floor1-middle-area1 div::after{content: "";display: block;position: absolute;border-left:2px solid black;border-bottom:2px solid black;right:5px;top:7px;width:5px;height:5px;transform: rotate(-45deg)}
+.floor1-middle-area1 ul{display:none;position:absolute;top:27px;left:68px;width:132px;border:1px solid#cccccc;font-size: 12px;font-weight: bold;line-height:23px;background: white;z-index: 5}
+.floor1-middle-area1 ul li{float: none;cursor: pointer;width:127px;padding-left:5px}
+.floor1-middle-area1 ul li:hover{background: red}
+.floor1-middle-area2{margin-bottom:27px;border-bottom: 2px solid #eee;height:50px}
+.floor1-middle-area2 span{color:#666;padding-left:10px;font-size:12px;line-height:57px;height:57px}
+.floor1-middle-area3{padding-left:10px;height:50px}
+.floor1-middle-area3 p{float:left;margin-top:3px}
+.floor1-middle-area3 ul{width:454px;height:130px;float:left}
+.floor1-middle-area3 ul .ac{border: 2px solid #a85253;padding:0 9px;height:20px;line-height:20px;position:relative}
+.floor1-middle-area3 ul .ac::after{ content:"";height:10px;width:10px;background: url(../images/xiaodongxi_14.jpg) no-repeat 0 0;display:block;bottom:0;right:0;position:absolute}
+.floor1-middle-area3 li{padding:1px 10px;display: inline-block;border: 1px solid black;float:left;margin-right:10px;margin-bottom: 10px;cursor: pointer;height:20px;line-height:20px}
+.floor1-middle-area4{height:40px;width:442px;padding-left:10px;}
+.floor1-middle-area4 button{width:135px;height:36px;border: none;background: url(../images/button_19.jpg) no-repeat 0 0;float:left;margin-left:10px;}
+.floor1-middle-area4 .number{width:48px;height:35px;float:left;border: 1px solid #cccccc;text-align: center}
+.floor1-middle-area4 .number1{width:33px;height:34px;border-right:1px solid #cccccc;float:left;line-height:34px}
+.floor1-middle-area4 .number2{float:left}
+.floor1-middle-area4 .number3{border-bottom: 1px solid #cccccc;width:14px;height:17px;line-height:17px;cursor: pointer}
+.floor1-middle-area4 .number4{width:14px;height:16px;line-height:16px;cursor: pointer}
+.floor1-middle-area5{height:36px;margin-top:25px}
+.floor2{margin:10px auto;width:1212px;height:270px;border:1px solid #dbdbdb;border-top:2px solid #98999d;}
+.floor2_tab{height:29px;border-bottom: 1px solid #dcdcdc}
+.floor2_tab1,.floor2_tab2{float:left;width:83px;border-left:1px solid white;border-right:1px solid white;text-align: center;line-height:29px;}
+.floor2_tab .ac{border-left:1px solid #dddddd;border-right:1px solid #dddddd;border-top:2px solid #a85255;position: relative;top:-6px;left:-1px;z-index: 1;background:white;height:33px;line-height: 33px;border-bottom: 1px solid white}
+.floor2_tab div:hover{cursor:pointer}
+.floor2_main{height:234px;overflow: hidden;width:1212px;position: relative}
+.floor2_inner{height:234px;width:2424px;position: absolute}
+.floor2_inner img{float:left}
